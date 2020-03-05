@@ -1,0 +1,101 @@
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py action PGA
+You have entered an incorrect input!
+
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py action pg
+You have entered an incorrect input!
+
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py actiona PG
+You have entered an incorrect input!
+
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py action PG
+Movie ID    Combined Movie Ratings
+960          9.295
+265          8.280000000000001
+531          7.81
+306          7.775
+604          7.72
+270          7.65
+32           7.425
+736          7.42
+53           7.074999999999999
+372          6.875
+60           6.685
+680          6.654999999999999
+370          6.51
+101          6.345000000000001
+459          6.34
+354          6.09
+473          6.0249999999999995
+587          6.015000000000001
+679          5.615
+778          5.425
+43           5.23
+665          4.895
+396          4.665
+492          4.52
+882          4.425
+519          4.29
+347          3.815
+801          3.5700000000000003
+714          2.1500000000000004
+506          1.91
+
+
+
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py romance PG
+Movie ID    Combined Movie Ratings
+937          8.725
+592          8.525
+855          7.785
+788          7.414999999999999
+944          6.84
+240          6.6850000000000005
+617          6.595
+488          6.585000000000001
+869          6.58
+420          6.545
+302          6.35
+630          6.305
+664          6.27
+348          6.23
+241          6.085
+968          6.050000000000001
+402          5.725
+740          5.49
+409          5.42
+618          5.375
+550          5.37
+509          5.16
+532          5.03
+18           4.995
+198          4.83
+548          4.475
+789          4.24
+98           3.76
+117          3.7199999999999998
+803          3.585
+253          3.22
+923          2.01
+796          1.605
+
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python movietime.py romance G
+Movie ID    Combined Movie Ratings
+382          7.54
+755          7.359999999999999
+773          6.904999999999999
+542          6.5600000000000005
+845          6.279999999999999
+307          6.235
+67           5.955
+47           5.734999999999999
+846          5.62
+712          5.465
+251          5.359999999999999
+14           4.25
+876          4.105
+373          3.835
+25           3.795
+546          3.36
+716          2.55
+427          2.54
+289          2.2

@@ -1,0 +1,2409 @@
+The rank of books
+Middlemarch-Eliot.txt
+DonQuixote-Cervantes.txt
+Hunchback-Hugo.txt
+MonteCristo-Dumas.txt
+Ulysses-Joyce.txt
+Copperfield-Dickens.txt
+BrothersKaramazov-Dostoyevsky.txt
+Various-Twain.txt
+Moby-Melville.txt
+WarPeace-Tolstoy.txt
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 0.9145729624206922
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.4746315275744266
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.7240897999023912
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 1.3114592484138603
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 3.646661786237189
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.7016105417276721
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.8451098096632506
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.3745485602733041
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 1.547550024402148
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.08191312835529527
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.09445583211322595
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 1.5809809663250367
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.9873060029282574
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 3.2254612005856513
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 2.027506100536847
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.183084431429966
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.04191312835529526
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 1.2922010736944847
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 2.0102440214738895
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.2228989751098087
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 1.3146754514397267
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.4824548560273303
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.47941434846266473
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.01402147388970229
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.10802342606149318
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.027130307467057108
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 2.3053380226651026
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.20997264556467354
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 1.395881203595154
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.8989370847987495
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 3.2090308714341553
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.4461117624071902
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.49250879249706925
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 1.1910707307542006
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 1.0342438452520515
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.06230558812035952
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.016858147713950777
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 0.9633177022274326
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.4877256740914415
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.0981906994919894
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 1.9444157874169594
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.7625087924970693
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.0418444704962876
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 1.7274404064087534
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 2.123520906604142
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.6172411098085187
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 1.2548143806174288
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.1321023837436499
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.03942164908167256
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.6297108245408363
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.10665885111371609
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.09
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.6162695216579888
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.38973381789608097
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.5897790000982219
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.6768902858265395
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 2.756182103919066
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.5436008250662998
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.7404449464689127
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.9906639819271197
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 1.3230694430802474
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.05195560357528731
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.1471112857283175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 1.2706679108142622
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 1.1840005893330712
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.0393802180532363
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 1.5796915823592963
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.6764895393379826
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.3219998035556429
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 0.9760023573322858
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 1.9524909144484823
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 0.6462705038797747
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.3039121893723604
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.10902170710146342
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.07817699636577946
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.9388439249582556
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.5795560357528731
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.031066692859247617
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.7454051412374154
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.2679972632196266
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.8768976639624668
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.6433799237611177
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 2.706010165184244
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.3865115824455083
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.2963512853093542
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.28672172808132146
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 2.4483110155410035
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.013386765712051607
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.05128921904017203
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 0.9031541393803151
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.7799638354022087
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.828602287166455
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 1.3942762193333982
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.48815756035578173
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.012483628188837845
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 1.4026664060209173
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 1.8281507184048476
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 1.7343055419802553
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.6969631512071155
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.22896588798748896
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.050036164597791144
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.1322578438080344
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.5359652037923957
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.027290587430358712
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.8706888735586862
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.30723957820045333
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.610129102197694
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 1.2675214349068686
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 3.669659012516016
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.931585690351828
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.19462796885779055
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 1.9653444367793433
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 2.336926185079334
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.07652311027890013
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.021742386912387834
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 1.1233162511087023
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.48969843303439387
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.1096787227752047
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 2.1999684635852956
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.5336138760224698
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.02144870405045826
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 0.7906928156105257
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 2.09490194146053
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.893876022469695
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.5618714891100818
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.4784024834926579
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.4579639302256824
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.1215935744555041
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.3591228934660491
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.03811668473440427
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.397428934258083
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.3077815766337795
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.30200058610921143
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.7233896649409006
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 2.4577639933574282
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.465839601445736
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.3461160496239135
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.3513578196737326
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 1.191178079515483
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.10138907883168898
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.0320386832079711
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 0.6998720328221162
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.48792321969326924
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 1.854509133535216
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 1.9156666992282894
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.2839874963368174
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.016758816059392417
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 0.6631200547035272
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 1.8504317671192734
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.3541428152779122
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.8446820357526619
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.03407736641594217
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.21472697079222414
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 1.0105978313959167
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.31194881312884615
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.08023151313861482
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.4966428003182175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.21707239459029437
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.3865393794749403
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 1.61236276849642
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 3.5202307080350046
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 1.3260143198090693
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.39824184566428
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.7177008750994434
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 3.9999920445505177
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.050612569610182984
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.03677008750994426
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 1.1861495624502787
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 1.1376849642004772
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 3.810827366746221
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 3.4733333333333336
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.4156881463802704
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.029164677804295935
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 1.2780111376292762
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 2.532275258552108
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.2891487669053303
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 1.0096340493237868
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.47322991249005575
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.3076849642004773
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.11066825775656325
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.6755131264916467
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.07011137629276054
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 0.5482081384936812
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.33583524027459966
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 0.27562829569197067
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.6959327430106454
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 2.6601323251417774
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.987205253208636
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.5666470997910658
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.21315789473684177
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 3.261970948164362
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.009137399263754842
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.11218187245050248
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 1.1449179186150635
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.7091841607800218
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.8140513381753065
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 2.4962332106258085
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.4269087652969854
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.07025370609889563
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 0.7183643418565318
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 2.381057606208337
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 1.7981573972739024
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.7898945378569298
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.25405929758233015
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.28710377076907756
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.0907103770769078
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.49593672271415756
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.04025370609889563
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.7385495883967064
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.20598980791846322
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 1.526985495883967
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 0.2723716189729517
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 3.160325362602901
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 0.9495883967071737
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 0.521219129753038
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.31064288514308114
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 2.0427557820462567
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.016401411211289685
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.655609564876519
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 0.149968639749118
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 0.5793845550764405
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 2.2183575068600545
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 1.9265542924343393
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 0.699388475107801
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.04159937279498235
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 1.8797647981183854
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 1.5707604860838886
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.9491493531948247
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 0.1329792238337908
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 0.41299490395923166
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.005613484907879274
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 0.15159937279498237
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.1530145041160329
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.03740101920815367
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The difference in percentage of web and calculated of  A is 1.5345788156797315
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  B is 0.7710758965804837
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  C is 1.3409841534612177
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  D is 2.4125771476230193
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  E is 4.389499582985822
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  F is 1.6285237698081734
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  G is 1.2444787322768975
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  H is 0.38160967472894036
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  I is 0.08221017514595541
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  J is 0.08702251876563803
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  K is 0.1334111759799833
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  L is 2.798106755629692
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  M is 2.0095829858215177
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  N is 4.819407839866556
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  O is 4.898131776480399
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  P is 2.384603836530442
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Q is 0.12
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  R is 0.5564804003336112
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  S is 4.706413678065054
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  T is 2.6494745621351123
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  U is 1.8855462885738115
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  V is 1.316555462885738
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  W is 0.9397998331943285
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  X is 3.1686655546288574
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Y is 0.9510758965804836
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The difference in percentage of web and calculated of  Z is 0.07957464553794828
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 7.125427037579307
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.0053684724255734
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 2.6159102000976087
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 2.5085407515861395
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 8.843338213762811
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.6983894582723278
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.0248901903367496
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 4.675451439726696
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 6.022449975597852
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.07808687164470474
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.634455832113226
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 2.4890190336749636
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.5226939970717424
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 4.304538799414349
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.612493899463153
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 2.323084431429966
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.07808687164470474
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 4.987798926305516
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.49975597852611
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 7.057101024890191
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 1.4153245485602732
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 1.5324548560273303
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.2005856515373352
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.2440214738897023
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.5519765739385067
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.1171303074670571
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 5.734661977334897
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.2700273544353264
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 1.9441187964048459
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 2.9210629152012504
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 9.280969128565845
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.9538882375928097
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.3774912075029309
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 3.8589292692457993
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 6.535756154747949
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.09769441187964048
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.5568581477139508
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 3.1066822977725677
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 2.0222743259085583
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 5.431809300508011
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.69558421258304
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.3774912075029309
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.07815552950371239
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 4.552559593591247
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.386479093395858
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.662758890191481
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 1.4751856193825712
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 1.18210238374365
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.7194216490816725
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.8597108245408362
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.5533411488862838
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.42373047834201
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.090266182103919
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 2.750220999901778
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 3.1431097141734603
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 9.733817896080934
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.8563991749337
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.1295550535310874
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 6.0406639819271195
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 6.246930556919753
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.1080443964247127
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.39288871427168254
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 2.799332089185738
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.3259994106669286
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 5.490619781946764
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 6.060308417640703
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.4635104606620175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.4419998035556429
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.3039976426677145
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.5575090855515175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 8.633729496120225
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 2.4260878106276396
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 1.1590217071014635
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.7581769963657794
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 1.1688439249582556
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.0804439642471269
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.05893330714075238
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.294594858762584
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.2120027367803734
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 2.463102336037533
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 3.176620076238882
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 9.783989834815756
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 2.0134884175544916
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.573648714690646
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 5.336721728081321
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 5.121688984458997
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.1466132342879484
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.488710780959828
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 3.166845860619685
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.730036164597791
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 4.701397712833545
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 6.2457237806666015
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.6518424396442184
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.10751637181116215
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 4.877333593979083
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.681849281595152
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 7.545694458019744
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 2.0330368487928845
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 0.8210341120125111
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.730036164597791
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.0977421561919656
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.1240347962076043
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.11729058743035871
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.169311126441313
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.1727604217995466
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 2.729870897802306
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 2.552478565093131
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 8.820340987483984
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.4684143096481719
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.6753720311422096
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 3.0846555632206565
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 5.233073814920666
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.23652311027890013
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.5617423869123879
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 2.946683748891298
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 2.020301566965606
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 5.4203212772247955
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.440031536414704
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.6063861239775303
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.09855129594954173
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.4893071843894745
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.41509805853947
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.386123977530304
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 2.168128510889918
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 0.5715975165073421
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.2220360697743176
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.10840642554449591
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.3008771065339508
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.12811668473440427
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.642571065741916
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.1722184233662205
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 3.0379994138907884
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 3.096610335059099
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 10.032236006642572
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.934160398554264
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.5238839503760866
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 4.698642180326267
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 6.378821920484517
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.05861092116831103
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.5079613167920289
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 3.370127967177884
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 2.0220767803067305
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 5.675490866464784
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.72433330077171
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.8560125036631827
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.1367588160593924
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.616879945296473
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.659568232880726
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.925857184722087
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 1.885317964247338
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 1.0159226335840579
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.4652730292077758
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 1.2405978313959167
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.3480511868711538
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.009768486861385171
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.543357199681782
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.2629276054097056
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 2.9534606205250595
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 2.20763723150358
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 8.969769291964996
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.0739856801909307
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.47175815433572
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 5.767700875099443
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 3.5700079554494826
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.10938743038981702
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.5767700875099443
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 2.8838504375497216
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.3723150357995226
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 3.719172633253779
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 4.166666666666666
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 2.5556881463802705
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.14916467780429593
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.001988862370724
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 3.977724741447892
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.990851233094669
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 1.7203659506762132
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 0.5767700875099443
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.3723150357995226
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.11933174224343676
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 0.9844868735083532
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.01988862370723946
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 7.491791861506318
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.1441647597254003
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 3.064371704308029
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 3.1240672569893544
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 9.829867674858223
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.412794746791364
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 1.3033529002089344
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 5.263157894736842
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 4.308029051835638
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.16913739926375485
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.42781812754949755
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 2.9250820813849367
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.800815839219978
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 4.715948661824694
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.143766789374191
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 2.5669087652969855
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.04974629390110437
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.5616356581434685
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.128942393791663
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 7.481842602726097
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 1.9401054621430702
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 0.7959407024176699
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.3928962292309224
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.13928962292309222
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.1640632772858424
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.04974629390110437
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.301450411603293
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 1.2740101920815368
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 1.8130145041160328
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 3.547628381027048
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 9.3296746373971
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 1.4504116032928263
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 2.391219129753038
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 5.360642885143081
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 5.5272442179537435
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.1764014112112897
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 1.195609564876519
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 3.9200313602508823
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 1.9306154449235593
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 5.311642493139946
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 5.71344570756566
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 1.4406115248921991
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.07840062720501764
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 4.400235201881615
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 4.939239513916111
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.330850646805175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 2.597020776166209
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 0.6370050960407684
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 1.6856134849078792
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 0.07840062720501764
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 1.8130145041160328
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.12740101920815367
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The percentage of  A is 6.505421184320268
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  B is 0.7089241034195163
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  C is 4.6809841534612175
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  D is 1.4074228523769807
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  E is 8.100500417014178
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  F is 0.7714762301918265
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  G is 0.6255212677231026
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  H is 5.43160967472894
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  I is 7.652210175145956
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  J is 0.07297748123436197
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  K is 0.4065888240200167
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  L is 1.2718932443703086
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  M is 0.5004170141784821
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  N is 2.7105921601334444
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  O is 2.7418682235196
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  P is 4.524603836530442
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Q is 0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  R is 5.723519599666389
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  S is 1.8035863219349457
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  T is 6.630525437864887
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  U is 0.8444537114261885
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  V is 2.366555462885738
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  W is 0.7402001668056715
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  X is 3.3986655546288573
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Y is 0.7089241034195163
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The percentage of  Z is 0.010425354462051709
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 8.843338213762811
+The descending percentage of  A is 7.125427037579307
+The descending percentage of  T is 7.057101024890191
+The descending percentage of  I is 6.022449975597852
+The descending percentage of  O is 5.612493899463153
+The descending percentage of  R is 4.987798926305516
+The descending percentage of  H is 4.675451439726696
+The descending percentage of  S is 4.49975597852611
+The descending percentage of  N is 4.304538799414349
+The descending percentage of  C is 2.6159102000976087
+The descending percentage of  D is 2.5085407515861395
+The descending percentage of  L is 2.4890190336749636
+The descending percentage of  P is 2.323084431429966
+The descending percentage of  F is 1.6983894582723278
+The descending percentage of  Y is 1.5519765739385067
+The descending percentage of  V is 1.5324548560273303
+The descending percentage of  M is 1.5226939970717424
+The descending percentage of  U is 1.4153245485602732
+The descending percentage of  W is 1.2005856515373352
+The descending percentage of  G is 1.0248901903367496
+The descending percentage of  B is 1.0053684724255734
+The descending percentage of  K is 0.634455832113226
+The descending percentage of  X is 0.2440214738897023
+The descending percentage of  Z is 0.1171303074670571
+The descending percentage of  J is 0.07808687164470474
+The descending percentage of  J is 0.07808687164470474
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 9.280969128565845
+The descending percentage of  T is 6.662758890191481
+The descending percentage of  I is 6.535756154747949
+The descending percentage of  A is 5.734661977334897
+The descending percentage of  O is 5.69558421258304
+The descending percentage of  N is 5.431809300508011
+The descending percentage of  R is 4.552559593591247
+The descending percentage of  S is 4.386479093395858
+The descending percentage of  H is 3.8589292692457993
+The descending percentage of  L is 3.1066822977725677
+The descending percentage of  D is 2.9210629152012504
+The descending percentage of  M is 2.0222743259085583
+The descending percentage of  F is 1.9538882375928097
+The descending percentage of  C is 1.9441187964048459
+The descending percentage of  W is 1.7194216490816725
+The descending percentage of  Y is 1.5533411488862838
+The descending percentage of  U is 1.4751856193825712
+The descending percentage of  G is 1.3774912075029309
+The descending percentage of  G is 1.3774912075029309
+The descending percentage of  B is 1.2700273544353264
+The descending percentage of  V is 1.18210238374365
+The descending percentage of  X is 0.8597108245408362
+The descending percentage of  K is 0.5568581477139508
+The descending percentage of  J is 0.09769441187964048
+The descending percentage of  Q is 0.07815552950371239
+The descending percentage of  Z is 0.0
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 9.733817896080934
+The descending percentage of  T is 8.633729496120225
+The descending percentage of  A is 6.42373047834201
+The descending percentage of  I is 6.246930556919753
+The descending percentage of  O is 6.060308417640703
+The descending percentage of  H is 6.0406639819271195
+The descending percentage of  N is 5.490619781946764
+The descending percentage of  R is 5.3039976426677145
+The descending percentage of  S is 4.5575090855515175
+The descending percentage of  D is 3.1431097141734603
+The descending percentage of  L is 2.799332089185738
+The descending percentage of  C is 2.750220999901778
+The descending percentage of  U is 2.4260878106276396
+The descending percentage of  F is 1.8563991749337
+The descending percentage of  W is 1.7581769963657794
+The descending percentage of  P is 1.4635104606620175
+The descending percentage of  M is 1.3259994106669286
+The descending percentage of  X is 1.1688439249582556
+The descending percentage of  V is 1.1590217071014635
+The descending percentage of  G is 1.1295550535310874
+The descending percentage of  B is 1.090266182103919
+The descending percentage of  Y is 1.0804439642471269
+The descending percentage of  Q is 0.4419998035556429
+The descending percentage of  K is 0.39288871427168254
+The descending percentage of  J is 0.1080443964247127
+The descending percentage of  Z is 0.05893330714075238
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 9.783989834815756
+The descending percentage of  T is 7.545694458019744
+The descending percentage of  A is 6.294594858762584
+The descending percentage of  O is 6.2457237806666015
+The descending percentage of  H is 5.336721728081321
+The descending percentage of  I is 5.121688984458997
+The descending percentage of  R is 4.877333593979083
+The descending percentage of  N is 4.701397712833545
+The descending percentage of  S is 4.681849281595152
+The descending percentage of  D is 3.176620076238882
+The descending percentage of  L is 3.166845860619685
+The descending percentage of  C is 2.463102336037533
+The descending percentage of  U is 2.0330368487928845
+The descending percentage of  F is 2.0134884175544916
+The descending percentage of  M is 1.730036164597791
+The descending percentage of  M is 1.730036164597791
+The descending percentage of  P is 1.6518424396442184
+The descending percentage of  G is 1.573648714690646
+The descending percentage of  B is 1.2120027367803734
+The descending percentage of  Y is 1.1240347962076043
+The descending percentage of  V is 0.8210341120125111
+The descending percentage of  K is 0.488710780959828
+The descending percentage of  J is 0.1466132342879484
+The descending percentage of  Z is 0.11729058743035871
+The descending percentage of  Q is 0.10751637181116215
+The descending percentage of  X is 0.0977421561919656
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 8.820340987483984
+The descending percentage of  T is 6.386123977530304
+The descending percentage of  A is 6.169311126441313
+The descending percentage of  R is 5.4893071843894745
+The descending percentage of  O is 5.440031536414704
+The descending percentage of  N is 5.4203212772247955
+The descending percentage of  I is 5.233073814920666
+The descending percentage of  S is 4.41509805853947
+The descending percentage of  H is 3.0846555632206565
+The descending percentage of  L is 2.946683748891298
+The descending percentage of  C is 2.729870897802306
+The descending percentage of  D is 2.552478565093131
+The descending percentage of  U is 2.168128510889918
+The descending percentage of  M is 2.020301566965606
+The descending percentage of  G is 1.6753720311422096
+The descending percentage of  P is 1.6063861239775303
+The descending percentage of  F is 1.4684143096481719
+The descending percentage of  Y is 1.3008771065339508
+The descending percentage of  W is 1.2220360697743176
+The descending percentage of  B is 1.1727604217995466
+The descending percentage of  V is 0.5715975165073421
+The descending percentage of  K is 0.5617423869123879
+The descending percentage of  J is 0.23652311027890013
+The descending percentage of  Z is 0.12811668473440427
+The descending percentage of  X is 0.10840642554449591
+The descending percentage of  Q is 0.09855129594954173
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 10.032236006642572
+The descending percentage of  T is 6.925857184722087
+The descending percentage of  A is 6.642571065741916
+The descending percentage of  I is 6.378821920484517
+The descending percentage of  O is 5.72433330077171
+The descending percentage of  N is 5.675490866464784
+The descending percentage of  R is 5.616879945296473
+The descending percentage of  H is 4.698642180326267
+The descending percentage of  S is 4.659568232880726
+The descending percentage of  L is 3.370127967177884
+The descending percentage of  D is 3.096610335059099
+The descending percentage of  C is 3.0379994138907884
+The descending percentage of  M is 2.0220767803067305
+The descending percentage of  F is 1.934160398554264
+The descending percentage of  U is 1.885317964247338
+The descending percentage of  P is 1.8560125036631827
+The descending percentage of  G is 1.5238839503760866
+The descending percentage of  W is 1.4652730292077758
+The descending percentage of  Y is 1.3480511868711538
+The descending percentage of  X is 1.2405978313959167
+The descending percentage of  B is 1.1722184233662205
+The descending percentage of  V is 1.0159226335840579
+The descending percentage of  K is 0.5079613167920289
+The descending percentage of  Q is 0.1367588160593924
+The descending percentage of  J is 0.05861092116831103
+The descending percentage of  Z is 0.009768486861385171
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 8.969769291964996
+The descending percentage of  T is 6.990851233094669
+The descending percentage of  A is 6.543357199681782
+The descending percentage of  H is 5.767700875099443
+The descending percentage of  R is 5.001988862370724
+The descending percentage of  O is 4.166666666666666
+The descending percentage of  S is 3.977724741447892
+The descending percentage of  N is 3.719172633253779
+The descending percentage of  I is 3.5700079554494826
+The descending percentage of  C is 2.9534606205250595
+The descending percentage of  L is 2.8838504375497216
+The descending percentage of  P is 2.5556881463802705
+The descending percentage of  D is 2.20763723150358
+The descending percentage of  U is 1.7203659506762132
+The descending percentage of  G is 1.47175815433572
+The descending percentage of  M is 1.3723150357995226
+The descending percentage of  M is 1.3723150357995226
+The descending percentage of  B is 1.2629276054097056
+The descending percentage of  F is 1.0739856801909307
+The descending percentage of  Y is 0.9844868735083532
+The descending percentage of  K is 0.5767700875099443
+The descending percentage of  K is 0.5767700875099443
+The descending percentage of  Q is 0.14916467780429593
+The descending percentage of  X is 0.11933174224343676
+The descending percentage of  J is 0.10938743038981702
+The descending percentage of  Z is 0.01988862370723946
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 9.829867674858223
+The descending percentage of  A is 7.491791861506318
+The descending percentage of  T is 7.481842602726097
+The descending percentage of  R is 5.5616356581434685
+The descending percentage of  H is 5.263157894736842
+The descending percentage of  O is 5.143766789374191
+The descending percentage of  N is 4.715948661824694
+The descending percentage of  I is 4.308029051835638
+The descending percentage of  S is 4.128942393791663
+The descending percentage of  D is 3.1240672569893544
+The descending percentage of  C is 3.064371704308029
+The descending percentage of  L is 2.9250820813849367
+The descending percentage of  P is 2.5669087652969855
+The descending percentage of  U is 1.9401054621430702
+The descending percentage of  M is 1.800815839219978
+The descending percentage of  F is 1.412794746791364
+The descending percentage of  W is 1.3928962292309224
+The descending percentage of  G is 1.3033529002089344
+The descending percentage of  Y is 1.1640632772858424
+The descending percentage of  B is 1.1441647597254003
+The descending percentage of  V is 0.7959407024176699
+The descending percentage of  K is 0.42781812754949755
+The descending percentage of  J is 0.16913739926375485
+The descending percentage of  X is 0.13928962292309222
+The descending percentage of  Q is 0.04974629390110437
+The descending percentage of  Q is 0.04974629390110437
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 9.3296746373971
+The descending percentage of  T is 6.330850646805175
+The descending percentage of  A is 6.301450411603293
+The descending percentage of  O is 5.71344570756566
+The descending percentage of  I is 5.5272442179537435
+The descending percentage of  H is 5.360642885143081
+The descending percentage of  N is 5.311642493139946
+The descending percentage of  S is 4.939239513916111
+The descending percentage of  R is 4.400235201881615
+The descending percentage of  L is 3.9200313602508823
+The descending percentage of  D is 3.547628381027048
+The descending percentage of  U is 2.597020776166209
+The descending percentage of  G is 2.391219129753038
+The descending percentage of  M is 1.9306154449235593
+The descending percentage of  C is 1.8130145041160328
+The descending percentage of  C is 1.8130145041160328
+The descending percentage of  W is 1.6856134849078792
+The descending percentage of  F is 1.4504116032928263
+The descending percentage of  P is 1.4406115248921991
+The descending percentage of  B is 1.2740101920815368
+The descending percentage of  K is 1.195609564876519
+The descending percentage of  V is 0.6370050960407684
+The descending percentage of  J is 0.1764014112112897
+The descending percentage of  Z is 0.12740101920815367
+The descending percentage of  Q is 0.07840062720501764
+The descending percentage of  Q is 0.07840062720501764
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The descending percentage of  E is 8.100500417014178
+The descending percentage of  I is 7.652210175145956
+The descending percentage of  T is 6.630525437864887
+The descending percentage of  A is 6.505421184320268
+The descending percentage of  R is 5.723519599666389
+The descending percentage of  H is 5.43160967472894
+The descending percentage of  C is 4.6809841534612175
+The descending percentage of  P is 4.524603836530442
+The descending percentage of  X is 3.3986655546288573
+The descending percentage of  O is 2.7418682235196
+The descending percentage of  N is 2.7105921601334444
+The descending percentage of  V is 2.366555462885738
+The descending percentage of  S is 1.8035863219349457
+The descending percentage of  D is 1.4074228523769807
+The descending percentage of  L is 1.2718932443703086
+The descending percentage of  U is 0.8444537114261885
+The descending percentage of  F is 0.7714762301918265
+The descending percentage of  W is 0.7402001668056715
+The descending percentage of  B is 0.7089241034195163
+The descending percentage of  B is 0.7089241034195163
+The descending percentage of  G is 0.6255212677231026
+The descending percentage of  M is 0.5004170141784821
+The descending percentage of  K is 0.4065888240200167
+The descending percentage of  J is 0.07297748123436197
+The descending percentage of  Z is 0.010425354462051709
+The descending percentage of  Q is 0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  J is 0.07808687164470474
+The ascending percentage of  J is 0.07808687164470474
+The ascending percentage of  Z is 0.1171303074670571
+The ascending percentage of  X is 0.2440214738897023
+The ascending percentage of  K is 0.634455832113226
+The ascending percentage of  B is 1.0053684724255734
+The ascending percentage of  G is 1.0248901903367496
+The ascending percentage of  W is 1.2005856515373352
+The ascending percentage of  U is 1.4153245485602732
+The ascending percentage of  M is 1.5226939970717424
+The ascending percentage of  V is 1.5324548560273303
+The ascending percentage of  Y is 1.5519765739385067
+The ascending percentage of  F is 1.6983894582723278
+The ascending percentage of  P is 2.323084431429966
+The ascending percentage of  L is 2.4890190336749636
+The ascending percentage of  D is 2.5085407515861395
+The ascending percentage of  C is 2.6159102000976087
+The ascending percentage of  N is 4.304538799414349
+The ascending percentage of  S is 4.49975597852611
+The ascending percentage of  H is 4.675451439726696
+The ascending percentage of  R is 4.987798926305516
+The ascending percentage of  O is 5.612493899463153
+The ascending percentage of  I is 6.022449975597852
+The ascending percentage of  T is 7.057101024890191
+The ascending percentage of  A is 7.125427037579307
+The ascending percentage of  E is 8.843338213762811
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Z is 0.0
+The ascending percentage of  Q is 0.07815552950371239
+The ascending percentage of  J is 0.09769441187964048
+The ascending percentage of  K is 0.5568581477139508
+The ascending percentage of  X is 0.8597108245408362
+The ascending percentage of  V is 1.18210238374365
+The ascending percentage of  B is 1.2700273544353264
+The ascending percentage of  G is 1.3774912075029309
+The ascending percentage of  G is 1.3774912075029309
+The ascending percentage of  U is 1.4751856193825712
+The ascending percentage of  Y is 1.5533411488862838
+The ascending percentage of  W is 1.7194216490816725
+The ascending percentage of  C is 1.9441187964048459
+The ascending percentage of  F is 1.9538882375928097
+The ascending percentage of  M is 2.0222743259085583
+The ascending percentage of  D is 2.9210629152012504
+The ascending percentage of  L is 3.1066822977725677
+The ascending percentage of  H is 3.8589292692457993
+The ascending percentage of  S is 4.386479093395858
+The ascending percentage of  R is 4.552559593591247
+The ascending percentage of  N is 5.431809300508011
+The ascending percentage of  O is 5.69558421258304
+The ascending percentage of  A is 5.734661977334897
+The ascending percentage of  I is 6.535756154747949
+The ascending percentage of  T is 6.662758890191481
+The ascending percentage of  E is 9.280969128565845
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Z is 0.05893330714075238
+The ascending percentage of  J is 0.1080443964247127
+The ascending percentage of  K is 0.39288871427168254
+The ascending percentage of  Q is 0.4419998035556429
+The ascending percentage of  Y is 1.0804439642471269
+The ascending percentage of  B is 1.090266182103919
+The ascending percentage of  G is 1.1295550535310874
+The ascending percentage of  V is 1.1590217071014635
+The ascending percentage of  X is 1.1688439249582556
+The ascending percentage of  M is 1.3259994106669286
+The ascending percentage of  P is 1.4635104606620175
+The ascending percentage of  W is 1.7581769963657794
+The ascending percentage of  F is 1.8563991749337
+The ascending percentage of  U is 2.4260878106276396
+The ascending percentage of  C is 2.750220999901778
+The ascending percentage of  L is 2.799332089185738
+The ascending percentage of  D is 3.1431097141734603
+The ascending percentage of  S is 4.5575090855515175
+The ascending percentage of  R is 5.3039976426677145
+The ascending percentage of  N is 5.490619781946764
+The ascending percentage of  H is 6.0406639819271195
+The ascending percentage of  O is 6.060308417640703
+The ascending percentage of  I is 6.246930556919753
+The ascending percentage of  A is 6.42373047834201
+The ascending percentage of  T is 8.633729496120225
+The ascending percentage of  E is 9.733817896080934
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  X is 0.0977421561919656
+The ascending percentage of  Q is 0.10751637181116215
+The ascending percentage of  Z is 0.11729058743035871
+The ascending percentage of  J is 0.1466132342879484
+The ascending percentage of  K is 0.488710780959828
+The ascending percentage of  V is 0.8210341120125111
+The ascending percentage of  Y is 1.1240347962076043
+The ascending percentage of  B is 1.2120027367803734
+The ascending percentage of  G is 1.573648714690646
+The ascending percentage of  P is 1.6518424396442184
+The ascending percentage of  M is 1.730036164597791
+The ascending percentage of  M is 1.730036164597791
+The ascending percentage of  F is 2.0134884175544916
+The ascending percentage of  U is 2.0330368487928845
+The ascending percentage of  C is 2.463102336037533
+The ascending percentage of  L is 3.166845860619685
+The ascending percentage of  D is 3.176620076238882
+The ascending percentage of  S is 4.681849281595152
+The ascending percentage of  N is 4.701397712833545
+The ascending percentage of  R is 4.877333593979083
+The ascending percentage of  I is 5.121688984458997
+The ascending percentage of  H is 5.336721728081321
+The ascending percentage of  O is 6.2457237806666015
+The ascending percentage of  A is 6.294594858762584
+The ascending percentage of  T is 7.545694458019744
+The ascending percentage of  E is 9.783989834815756
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Q is 0.09855129594954173
+The ascending percentage of  X is 0.10840642554449591
+The ascending percentage of  Z is 0.12811668473440427
+The ascending percentage of  J is 0.23652311027890013
+The ascending percentage of  K is 0.5617423869123879
+The ascending percentage of  V is 0.5715975165073421
+The ascending percentage of  B is 1.1727604217995466
+The ascending percentage of  W is 1.2220360697743176
+The ascending percentage of  Y is 1.3008771065339508
+The ascending percentage of  F is 1.4684143096481719
+The ascending percentage of  P is 1.6063861239775303
+The ascending percentage of  G is 1.6753720311422096
+The ascending percentage of  M is 2.020301566965606
+The ascending percentage of  U is 2.168128510889918
+The ascending percentage of  D is 2.552478565093131
+The ascending percentage of  C is 2.729870897802306
+The ascending percentage of  L is 2.946683748891298
+The ascending percentage of  H is 3.0846555632206565
+The ascending percentage of  S is 4.41509805853947
+The ascending percentage of  I is 5.233073814920666
+The ascending percentage of  N is 5.4203212772247955
+The ascending percentage of  O is 5.440031536414704
+The ascending percentage of  R is 5.4893071843894745
+The ascending percentage of  A is 6.169311126441313
+The ascending percentage of  T is 6.386123977530304
+The ascending percentage of  E is 8.820340987483984
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Z is 0.009768486861385171
+The ascending percentage of  J is 0.05861092116831103
+The ascending percentage of  Q is 0.1367588160593924
+The ascending percentage of  K is 0.5079613167920289
+The ascending percentage of  V is 1.0159226335840579
+The ascending percentage of  B is 1.1722184233662205
+The ascending percentage of  X is 1.2405978313959167
+The ascending percentage of  Y is 1.3480511868711538
+The ascending percentage of  W is 1.4652730292077758
+The ascending percentage of  G is 1.5238839503760866
+The ascending percentage of  P is 1.8560125036631827
+The ascending percentage of  U is 1.885317964247338
+The ascending percentage of  F is 1.934160398554264
+The ascending percentage of  M is 2.0220767803067305
+The ascending percentage of  C is 3.0379994138907884
+The ascending percentage of  D is 3.096610335059099
+The ascending percentage of  L is 3.370127967177884
+The ascending percentage of  S is 4.659568232880726
+The ascending percentage of  H is 4.698642180326267
+The ascending percentage of  R is 5.616879945296473
+The ascending percentage of  N is 5.675490866464784
+The ascending percentage of  O is 5.72433330077171
+The ascending percentage of  I is 6.378821920484517
+The ascending percentage of  A is 6.642571065741916
+The ascending percentage of  T is 6.925857184722087
+The ascending percentage of  E is 10.032236006642572
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Z is 0.01988862370723946
+The ascending percentage of  J is 0.10938743038981702
+The ascending percentage of  X is 0.11933174224343676
+The ascending percentage of  Q is 0.14916467780429593
+The ascending percentage of  K is 0.5767700875099443
+The ascending percentage of  K is 0.5767700875099443
+The ascending percentage of  Y is 0.9844868735083532
+The ascending percentage of  F is 1.0739856801909307
+The ascending percentage of  B is 1.2629276054097056
+The ascending percentage of  M is 1.3723150357995226
+The ascending percentage of  M is 1.3723150357995226
+The ascending percentage of  G is 1.47175815433572
+The ascending percentage of  U is 1.7203659506762132
+The ascending percentage of  D is 2.20763723150358
+The ascending percentage of  P is 2.5556881463802705
+The ascending percentage of  L is 2.8838504375497216
+The ascending percentage of  C is 2.9534606205250595
+The ascending percentage of  I is 3.5700079554494826
+The ascending percentage of  N is 3.719172633253779
+The ascending percentage of  S is 3.977724741447892
+The ascending percentage of  O is 4.166666666666666
+The ascending percentage of  R is 5.001988862370724
+The ascending percentage of  H is 5.767700875099443
+The ascending percentage of  A is 6.543357199681782
+The ascending percentage of  T is 6.990851233094669
+The ascending percentage of  E is 8.969769291964996
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Q is 0.04974629390110437
+The ascending percentage of  Q is 0.04974629390110437
+The ascending percentage of  X is 0.13928962292309222
+The ascending percentage of  J is 0.16913739926375485
+The ascending percentage of  K is 0.42781812754949755
+The ascending percentage of  V is 0.7959407024176699
+The ascending percentage of  B is 1.1441647597254003
+The ascending percentage of  Y is 1.1640632772858424
+The ascending percentage of  G is 1.3033529002089344
+The ascending percentage of  W is 1.3928962292309224
+The ascending percentage of  F is 1.412794746791364
+The ascending percentage of  M is 1.800815839219978
+The ascending percentage of  U is 1.9401054621430702
+The ascending percentage of  P is 2.5669087652969855
+The ascending percentage of  L is 2.9250820813849367
+The ascending percentage of  C is 3.064371704308029
+The ascending percentage of  D is 3.1240672569893544
+The ascending percentage of  S is 4.128942393791663
+The ascending percentage of  I is 4.308029051835638
+The ascending percentage of  N is 4.715948661824694
+The ascending percentage of  O is 5.143766789374191
+The ascending percentage of  H is 5.263157894736842
+The ascending percentage of  R is 5.5616356581434685
+The ascending percentage of  T is 7.481842602726097
+The ascending percentage of  A is 7.491791861506318
+The ascending percentage of  E is 9.829867674858223
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Q is 0.07840062720501764
+The ascending percentage of  Q is 0.07840062720501764
+The ascending percentage of  Z is 0.12740101920815367
+The ascending percentage of  J is 0.1764014112112897
+The ascending percentage of  V is 0.6370050960407684
+The ascending percentage of  K is 1.195609564876519
+The ascending percentage of  B is 1.2740101920815368
+The ascending percentage of  P is 1.4406115248921991
+The ascending percentage of  F is 1.4504116032928263
+The ascending percentage of  W is 1.6856134849078792
+The ascending percentage of  C is 1.8130145041160328
+The ascending percentage of  C is 1.8130145041160328
+The ascending percentage of  M is 1.9306154449235593
+The ascending percentage of  G is 2.391219129753038
+The ascending percentage of  U is 2.597020776166209
+The ascending percentage of  D is 3.547628381027048
+The ascending percentage of  L is 3.9200313602508823
+The ascending percentage of  R is 4.400235201881615
+The ascending percentage of  S is 4.939239513916111
+The ascending percentage of  N is 5.311642493139946
+The ascending percentage of  H is 5.360642885143081
+The ascending percentage of  I is 5.5272442179537435
+The ascending percentage of  O is 5.71344570756566
+The ascending percentage of  A is 6.301450411603293
+The ascending percentage of  T is 6.330850646805175
+The ascending percentage of  E is 9.3296746373971
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The ascending percentage of  Q is 0.0
+The ascending percentage of  Z is 0.010425354462051709
+The ascending percentage of  J is 0.07297748123436197
+The ascending percentage of  K is 0.4065888240200167
+The ascending percentage of  M is 0.5004170141784821
+The ascending percentage of  G is 0.6255212677231026
+The ascending percentage of  B is 0.7089241034195163
+The ascending percentage of  B is 0.7089241034195163
+The ascending percentage of  W is 0.7402001668056715
+The ascending percentage of  F is 0.7714762301918265
+The ascending percentage of  U is 0.8444537114261885
+The ascending percentage of  L is 1.2718932443703086
+The ascending percentage of  D is 1.4074228523769807
+The ascending percentage of  S is 1.8035863219349457
+The ascending percentage of  V is 2.366555462885738
+The ascending percentage of  N is 2.7105921601334444
+The ascending percentage of  O is 2.7418682235196
+The ascending percentage of  X is 3.3986655546288573
+The ascending percentage of  P is 4.524603836530442
+The ascending percentage of  C is 4.6809841534612175
+The ascending percentage of  H is 5.43160967472894
+The ascending percentage of  R is 5.723519599666389
+The ascending percentage of  A is 6.505421184320268
+The ascending percentage of  T is 6.630525437864887
+The ascending percentage of  I is 7.652210175145956
+The ascending percentage of  E is 8.100500417014178
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The ascending percentage of web  Z is 0.09
+The ascending percentage of web  Q is 0.12
+The ascending percentage of web  J is 0.16
+The ascending percentage of web  X is 0.23
+The ascending percentage of web  K is 0.54
+The ascending percentage of web  V is 1.05
+The ascending percentage of web  B is 1.48
+The ascending percentage of web  Y is 1.66
+The ascending percentage of web  W is 1.68
+The ascending percentage of web  G is 1.87
+The ascending percentage of web  P is 2.14
+The ascending percentage of web  F is 2.4
+The ascending percentage of web  M is 2.51
+The ascending percentage of web  U is 2.73
+The ascending percentage of web  C is 3.34
+The ascending percentage of web  D is 3.82
+The ascending percentage of web  L is 4.07
+The ascending percentage of web  H is 5.05
+The ascending percentage of web  R is 6.28
+The ascending percentage of web  S is 6.51
+The ascending percentage of web  N is 7.53
+The ascending percentage of web  I is 7.57
+The ascending percentage of web  O is 7.64
+The ascending percentage of web  A is 8.04
+The ascending percentage of web  T is 9.28
+The ascending percentage of web  E is 12.49
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The descending percentage of web E is 12.49
+The descending percentage of web T is 9.28
+The descending percentage of web A is 8.04
+The descending percentage of web O is 7.64
+The descending percentage of web I is 7.57
+The descending percentage of web N is 7.53
+The descending percentage of web S is 6.51
+The descending percentage of web R is 6.28
+The descending percentage of web H is 5.05
+The descending percentage of web L is 4.07
+The descending percentage of web D is 3.82
+The descending percentage of web C is 3.34
+The descending percentage of web U is 2.73
+The descending percentage of web M is 2.51
+The descending percentage of web F is 2.4
+The descending percentage of web P is 2.14
+The descending percentage of web G is 1.87
+The descending percentage of web W is 1.68
+The descending percentage of web Y is 1.66
+The descending percentage of web B is 1.48
+The descending percentage of web V is 1.05
+The descending percentage of web K is 0.54
+The descending percentage of web X is 0.23
+The descending percentage of web J is 0.16
+The descending percentage of web Q is 0.12
+The descending percentage of web Z is 0.09
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  J and Z is 16
+The index difference between  J and Q is 7
+The index difference between  Z and J is -16
+The index difference between  X and X is 0
+The index difference between  K and K is 0
+The index difference between  B and V is 20
+The index difference between  G and B is -5
+The index difference between  W and Y is 2
+The index difference between  U and W is 2
+The index difference between  M and G is -6
+The index difference between  V and P is -6
+The index difference between  Y and F is -19
+The index difference between  F and M is 7
+The index difference between  P and U is 5
+The index difference between  L and C is -9
+The index difference between  D and D is 0
+The index difference between  C and L is 9
+The index difference between  N and H is -6
+The index difference between  S and R is -1
+The index difference between  H and S is 11
+The index difference between  R and N is -4
+The index difference between  O and I is -6
+The index difference between  I and O is 6
+The index difference between  T and A is -19
+The index difference between  A and T is 19
+The index difference between  E and E is 0
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Z and Z is 0
+The index difference between  Q and Q is 0
+The index difference between  J and J is 0
+The index difference between  K and X is 13
+The index difference between  X and K is -13
+The index difference between  V and V is 0
+The index difference between  B and B is 0
+The index difference between  G and Y is 18
+The index difference between  G and W is 16
+The index difference between  U and G is -14
+The index difference between  Y and P is -9
+The index difference between  W and F is -17
+The index difference between  C and M is 10
+The index difference between  F and U is 15
+The index difference between  M and C is -10
+The index difference between  D and D is 0
+The index difference between  L and L is 0
+The index difference between  H and H is 0
+The index difference between  S and R is -1
+The index difference between  R and S is 1
+The index difference between  N and N is 0
+The index difference between  O and I is -6
+The index difference between  A and O is 14
+The index difference between  I and A is -8
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Z and Z is 0
+The index difference between  J and Q is 7
+The index difference between  K and J is -1
+The index difference between  Q and X is 7
+The index difference between  Y and K is -14
+The index difference between  B and V is 20
+The index difference between  G and B is -5
+The index difference between  V and Y is 3
+The index difference between  X and W is -1
+The index difference between  M and G is -6
+The index difference between  P and P is 0
+The index difference between  W and F is -17
+The index difference between  F and M is 7
+The index difference between  U and U is 0
+The index difference between  C and C is 0
+The index difference between  L and D is -8
+The index difference between  D and L is 8
+The index difference between  S and H is -11
+The index difference between  R and R is 0
+The index difference between  N and S is 5
+The index difference between  H and N is 6
+The index difference between  O and I is -6
+The index difference between  I and O is 6
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  X and Z is 2
+The index difference between  Q and Q is 0
+The index difference between  Z and J is -16
+The index difference between  J and X is 14
+The index difference between  K and K is 0
+The index difference between  V and V is 0
+The index difference between  Y and B is -23
+The index difference between  B and Y is 23
+The index difference between  G and W is 16
+The index difference between  P and G is -9
+The index difference between  M and P is 3
+The index difference between  M and F is -7
+The index difference between  F and M is 7
+The index difference between  U and U is 0
+The index difference between  C and C is 0
+The index difference between  L and D is -8
+The index difference between  D and L is 8
+The index difference between  S and H is -11
+The index difference between  N and R is 4
+The index difference between  R and S is 1
+The index difference between  I and N is 5
+The index difference between  H and I is 1
+The index difference between  O and O is 0
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Q and Z is 9
+The index difference between  X and Q is -7
+The index difference between  Z and J is -16
+The index difference between  J and X is 14
+The index difference between  K and K is 0
+The index difference between  V and V is 0
+The index difference between  B and B is 0
+The index difference between  W and Y is 2
+The index difference between  Y and W is -2
+The index difference between  F and G is 1
+The index difference between  P and P is 0
+The index difference between  G and F is -1
+The index difference between  M and M is 0
+The index difference between  U and U is 0
+The index difference between  D and C is -1
+The index difference between  C and D is 1
+The index difference between  L and L is 0
+The index difference between  H and H is 0
+The index difference between  S and R is -1
+The index difference between  I and S is 10
+The index difference between  N and N is 0
+The index difference between  O and I is -6
+The index difference between  R and O is -3
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Z and Z is 0
+The index difference between  J and Q is 7
+The index difference between  Q and J is -7
+The index difference between  K and X is 13
+The index difference between  V and K is -11
+The index difference between  B and V is 20
+The index difference between  X and B is -22
+The index difference between  Y and Y is 0
+The index difference between  W and W is 0
+The index difference between  G and G is 0
+The index difference between  P and P is 0
+The index difference between  U and F is -15
+The index difference between  F and M is 7
+The index difference between  M and U is 8
+The index difference between  C and C is 0
+The index difference between  D and D is 0
+The index difference between  L and L is 0
+The index difference between  S and H is -11
+The index difference between  H and R is 10
+The index difference between  R and S is 1
+The index difference between  N and N is 0
+The index difference between  O and I is -6
+The index difference between  I and O is 6
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Z and Z is 0
+The index difference between  J and Q is 7
+The index difference between  X and J is -14
+The index difference between  Q and X is 7
+The index difference between  K and K is 0
+The index difference between  K and V is 11
+The index difference between  Y and B is -23
+The index difference between  F and Y is 19
+The index difference between  B and W is 21
+The index difference between  M and G is -6
+The index difference between  M and P is 3
+The index difference between  G and F is -1
+The index difference between  U and M is -8
+The index difference between  D and U is 17
+The index difference between  P and C is -13
+The index difference between  L and D is -8
+The index difference between  C and L is 9
+The index difference between  I and H is -1
+The index difference between  N and R is 4
+The index difference between  S and S is 0
+The index difference between  O and N is -1
+The index difference between  R and I is -9
+The index difference between  H and O is 7
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Q and Z is 9
+The index difference between  Q and Q is 0
+The index difference between  X and J is -14
+The index difference between  J and X is 14
+The index difference between  K and K is 0
+The index difference between  V and V is 0
+The index difference between  B and B is 0
+The index difference between  Y and Y is 0
+The index difference between  G and W is 16
+The index difference between  W and G is -16
+The index difference between  F and P is 10
+The index difference between  M and F is -7
+The index difference between  U and M is -8
+The index difference between  P and U is 5
+The index difference between  L and C is -9
+The index difference between  C and D is 1
+The index difference between  D and L is 8
+The index difference between  S and H is -11
+The index difference between  I and R is 9
+The index difference between  N and S is 5
+The index difference between  O and N is -1
+The index difference between  H and I is 1
+The index difference between  R and O is -3
+The index difference between  T and A is -19
+The index difference between  A and T is 19
+The index difference between  E and E is 0
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Q and Z is 9
+The index difference between  Q and Q is 0
+The index difference between  Z and J is -16
+The index difference between  J and X is 14
+The index difference between  V and K is -11
+The index difference between  K and V is 11
+The index difference between  B and B is 0
+The index difference between  P and Y is 9
+The index difference between  F and W is 17
+The index difference between  W and G is -16
+The index difference between  C and P is 13
+The index difference between  C and F is 3
+The index difference between  M and M is 0
+The index difference between  G and U is 14
+The index difference between  U and C is -18
+The index difference between  D and D is 0
+The index difference between  L and L is 0
+The index difference between  R and H is -10
+The index difference between  S and R is -1
+The index difference between  N and S is 5
+The index difference between  H and N is 6
+The index difference between  I and I is 0
+The index difference between  O and O is 0
+The index difference between  A and A is 0
+The index difference between  T and T is 0
+The index difference between  E and E is 0
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+The index difference between  Q and Z is 9
+The index difference between  Z and Q is -9
+The index difference between  J and J is 0
+The index difference between  K and X is 13
+The index difference between  M and K is -2
+The index difference between  G and V is 15
+The index difference between  B and B is 0
+The index difference between  B and Y is 23
+The index difference between  W and W is 0
+The index difference between  F and G is 1
+The index difference between  U and P is -5
+The index difference between  L and F is -6
+The index difference between  D and M is 9
+The index difference between  S and U is 2
+The index difference between  V and C is -19
+The index difference between  N and D is -10
+The index difference between  O and L is -3
+The index difference between  X and H is -16
+The index difference between  P and R is 2
+The index difference between  C and S is 16
+The index difference between  H and N is 6
+The index difference between  R and I is -9
+The index difference between  A and O is 14
+The index difference between  T and A is -19
+The index difference between  I and T is 11
+The index difference between  E and E is 0
+The rank of books for index change
+Various-Twain.txt
+DonQuixote-Cervantes.txt
+Middlemarch-Eliot.txt
+Hunchback-Hugo.txt
+Copperfield-Dickens.txt
+Ulysses-Joyce.txt
+MonteCristo-Dumas.txt
+Moby-Melville.txt
+BrothersKaramazov-Dostoyevsky.txt
+WarPeace-Tolstoy.txt
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+  A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z     
+A 0   0   2   0   0   0   0   0   0   0   0   0   0   2   0   366   0   3   0   0   0   0   0   0   0   0       
+B 0   0   0   0   1   0   0   0   0   0   0   0   0   0   17   0   0   0   0   0   0   0   0   0   0   0       
+C 0   0   0   0   2   0   0   366   0   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+D 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+E 2   3   2   0   4   0   0   0   1   0   0   2   0   8   0   2   0   367   0   0   0   2   0   0   0   0       
+F 0   0   0   0   0   0   0   0   3   0   0   0   0   0   2   0   0   0   0   1   0   0   0   0   0   0       
+G 0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   3   0   0   0   0   0       
+H 366   0   0   0   0   0   0   0   2   0   0   0   0   0   0   0   0   1   0   1   0   0   0   0   0   0       
+I 0   0   0   0   0   1   1   0   149   0   0   2   0   1   0   0   0   2   1   0   0   39   0   33   0   0       
+J 0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+K 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+L 0   0   0   0   1   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0   1   0   0   0   0       
+M 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+N 0   1   0   3   3   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+O 0   0   0   0   0   1   2   0   0   1   17   0   0   4   17   0   0   0   0   0   2   0   0   0   0   0       
+P 0   0   0   0   2   0   0   0   2   0   0   0   0   0   0   0   0   1   0   366   0   0   0   0   0   0       
+Q 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+R 0   0   0   0   1   0   1   0   0   0   0   0   0   0   1   0   0   0   1   3   0   0   0   0   0   0       
+S 0   0   0   0   2   0   0   0   1   0   0   0   0   0   0   0   0   0   0   2   0   0   0   0   0   0       
+T 1   0   0   0   372   1   0   3   0   0   0   0   0   0   0   0   0   0   1   0   0   0   2   0   0   0       
+U 0   0   0   0   2   0   0   0   0   0   0   0   0   0   0   0   0   2   0   2   0   0   0   0   0   0       
+V 0   0   0   0   4   0   0   0   103   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+W 2   0   0   0   1   0   0   0   0   0   0   0   0   0   1   0   0   0   0   0   0   0   0   0   0   0       
+X 0   0   0   0   0   0   0   0   112   0   0   0   0   0   0   0   0   0   0   0   0   72   0   64   0   0       
+Y 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+Z 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0       
+[[372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72], [372, 367, 366, 366, 366, 366, 149, 112, 103, 72]]
+BrothersKaramazov-Dostoyevsky.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Copperfield-Dickens.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+DonQuixote-Cervantes.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Hunchback-Hugo.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Various-Twain.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Middlemarch-Eliot.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Moby-Melville.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+MonteCristo-Dumas.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+Ulysses-Joyce.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV
+WarPeace-Tolstoy.txt
+#########################~~~~~~~~~~~~~~~~~~~~~~~~~~########################
+TE
+ER
+AP
+AP
+AP
+AP
+II
+XI
+VI
+XV

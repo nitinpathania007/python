@@ -1,0 +1,28 @@
+[dot[z[0],z[1] for z in zip(a,x)]
+
+a=[col1,col2...]
+b=smul(x[0],a[0])
+for col in range(1,len(x):
+	z=smul(x[i],a[i])
+	b=vadd(b,z)
+
+a=dot(v,w) -computes dot product of two vectors return scalar
+u=vadd(v,w)-add two vectors return vector
+
+w=smul(alpha,v) - multiply vector by scalar and return vector
+
+
+file:///C:/Users/nitin/AppData/Roaming/jupyter/runtime/nbserver-6272-open.html
+
+
+
+mvmul(m,v)=b
+
+cij= aik bkj
+
+
+do a transpose
+
+dij=bji
+
+
