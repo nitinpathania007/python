@@ -1,0 +1,13 @@
+weekday
+weekday_name
+
+df['dayofweek']=df.start_date.dt.weekday_name
+
+2 characters of 8 bits
+became 12 bits each
+
+total 24 bits
+
+divide 24/3= 3  8 bits
+
+

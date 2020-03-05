@@ -1,0 +1,46 @@
+C:\Users\nitin\OneDrive\Desktop\nitin python scripts>python datatransmissionassignment2pythonmain.py
+Enter the string you want to transmit:complete
+Original message took in function :  co
+Transmitted string :  =Ï
+Received noisy message :  ?½Ï
+Noise Converted message changed: co
+Original message took in function :  mp
+Transmitted string :  Ñà
+Received noisy message :  Ñà
+Noise Converted message changed: mp
+Original message took in function :  le
+Transmitted string :  ÉÅ
+Received noisy message :  ?ÉÅ
+Noise Converted message changed: le
+Original message took in function :  te
+Transmitted string :  _IÅ
+Received noisy message :  ßÉÅ
+Noise Converted message changed: te
+Original message :  complete
+Return noise :  complete
+Do you want to transmit again:y
+Enter the string you want to transmit:assignment
+Original message took in function :  as
+Transmitted string :  İã
+Received noisy message :  İ?ã
+Noise Converted message changed: as
+Original message took in function :  si
+Transmitted string :  Î5É
+Received noisy message :  ÎµÉ
+Noise Converted message changed: si
+Original message took in function :  gn
+Transmitted string :  ]|Ş
+Received noisy message :  İüŞ
+Noise Converted message changed: gn
+Original message took in function :  me
+Transmitted string :  ÙÅ
+Received noisy message :  ÙÅ
+Noise Converted message changed: me
+Original message took in function :  nt
+Transmitted string :  Íåô
+Received noisy message :  Íåô
+Noise Converted message changed: nt
+Original message :  assignment
+Return noise :  assignment
+Do you want to transmit again:yo
+Error!!Please Enter Y or y if you want to transmit again and N or n if you don't want to transmit:n
